@@ -26,7 +26,7 @@ This system provides a **centralized control room architecture** capable of trac
 By fusing high-speed optical detections with physical robot odometry, the platform delivers a **unified, centimeter-accurate coordinate visualization space**. The software dynamically handles camera handoffs, flags untracked static/dynamic obstacles, auto-recalibrates visual coordinate transforms on the fly, and broadcasts spatial state corrections back into the robot operating ecosystem.
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/rpvishaanth/Multicamera_Perception/main/assets/dashboard_preview.png" alt="PyQt5 Dashboard Preview — Multi-camera grid with active AMR tracking overlays" width="90%" />
+<img src="https://raw.githubusercontent.com/rpvishaanth/Multicamera_Perception/main/dashboard_preview.png" alt="PyQt5 Dashboard Preview — Multi-camera grid with active AMR tracking overlays" width="90%" />
 <br/>
 <sub><i>Main PyQt5 Control Dashboard — Multi-camera grid, real-time tracking overlays, and fleet log panel</i></sub>
 </div>

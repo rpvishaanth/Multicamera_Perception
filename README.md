@@ -11,7 +11,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-Enabled-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Stars](https://img.shields.io/github/stars/rpvishaanth/Multicamera_Perception?style=for-the-badge&color=gold)](https://github.com/rpvishaanth/Multicamera_Perception/stargazers)
+(https://github.com/rpvishaanth/Multicamera_Perception/stargazers)
 
 *A warehouse-scale, centimeter-accurate robot tracking platform powered by multi-sensor fusion and real-time computer vision.*
 

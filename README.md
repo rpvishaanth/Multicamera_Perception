@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/rpvishaanth/Multicamera_Perception/main/assets/banner.png" alt="Multicamera Perception Banner" width="100%" />
-
 # 🤖 Multicamera Perception
 
 ### Real-Time Multi-Camera AMR Tracking & Fleet Management System

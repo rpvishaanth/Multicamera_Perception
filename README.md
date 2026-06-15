@@ -1,7 +1,8 @@
 <div align="center">
-# 🤖 Multicamera Perception
+    
+### 🤖Multicamera Perception
 
-### Real-Time Multi-Camera AMR Tracking & Fleet Management System
+### Real-Time Multi-Camera ROBOT Tracking & Fleet Management System
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![ROS2](https://img.shields.io/badge/ROS2-Humble%2FIron-22314E?style=for-the-badge&logo=ros&logoColor=white)](https://docs.ros.org/)

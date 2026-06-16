@@ -192,10 +192,9 @@ Homography matrices are updated thread-safely without interrupting active tracki
 An independent frame-differencing pipeline detects unmapped obstacles such as human operators or dropped cargo:
 
 1. Applies **CLAHE** to counter illumination fluctuations.
-2. Evaluates absolute pixel discrepancy: $\mathbf{I}_{\text{diff}} = | \mathbf{I}_{\text{ref}} - \mathbf{I}_{\text{current}} |$
-3. Filters noise with morphological operations ($7 \times 7$ Open, $15 \times 15$ Close).
-4. Masks out expected vehicle footprints to isolate environmental anomalies.
-5. Applies a **temporal confirmation filter** across consecutive frames before back-projecting the obstacle's ground footprint into the fleet coordination map.
+2. Filters noise with morphological operations ($7 \times 7$ Open, $15 \times 15$ Close).
+3. Masks out expected vehicle footprints to isolate environmental anomalies.
+4. Applies a **temporal confirmation filter** across consecutive frames before back-projecting the obstacle's ground footprint into the fleet coordination map.
 
 ---
 
